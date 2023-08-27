@@ -1,0 +1,12 @@
+Storage Json
+
+-Que es el Storage
+-Metodos que se usan en el localStorage
+-Clave/valor
+-Para ver el storage , f12 y en la pestana de aplicacion
+-Recorrer el storage
+-Eliminar los datos
+-JSON
+-Parseas el [object Object]
+-stringify y parse
+-Recuperar datos

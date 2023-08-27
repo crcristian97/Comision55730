@@ -1,0 +1,15 @@
+Arrays
+
+-Que son los Arrays?
+-Declaracion de Arrays
+-Recorrer arrays
+-Metodos
+-Para agregar se usan: pop, shift
+-Para eliminar elementos: shift, pop
+-Para eliminar varios: splice
+-Para generar un string con todos los elementos: join()
+-Para combinar 2 arrays: concat
+-Copia de una parte del array en un nuevo array: slice
+-Para saber el indice de un elemento de un array: indexOf
+-Si existe un elemento dentro del array usamos: includes
+-Array de objectos

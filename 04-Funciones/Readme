@@ -1,0 +1,14 @@
+Funciones
+
+-Las funciones nos permiten darle movilidad y dinamismo a nuestro proyecto
+-Principios tener en cuenta a la hora de crear funciones
+-Como se crean las funciones
+-Como llamamos a las funciones
+-Parametros/Argumentos
+-En las funciones podemos hacer muchos algoritmos adentro
+-Scope //PREGUNTA DE ENTREVISTA
+-Scope local y Global
+-Entender el scope nos permite ahorrar codigo, optimizar y repetir nombres de variables sin preocuparnos
+-Funciones anonimas y flecha--> ES6
+
+-Nota: Las funciones flechas se utiliza mucho en los framework

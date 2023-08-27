@@ -1,0 +1,12 @@
+DOM
+
+-Que es el DOM?
+-Como funciona?
+-Tipos de nodos.Nodo elemento y Nodo Texto
+-Acceder elementos a los nodos a travez de document: getElementById(), getElementsByClassName(),getElementsByTagName()
+-Como modificamos los nodos.innerText
+-InnerHtml,className
+-Crear elementos a travez de JS
+-Eliminar elementos
+-Ejemplos aplicados para crear carrito de compra
+

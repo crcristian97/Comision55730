@@ -1,0 +1,16 @@
+Objectos
+
+-Que son los Objectos?
+-Como se acceden a los Objectos
+-Que son los constructores?
+-Como creamos objectos con los constructores
+-Palabra this
+-Funciones dentro de los constructores
+-Operadores IN y FOR..IN
+-Mejora del constructor
+
+Resumen importante:
+Los objetos tienen propiedades y métodos.
+El método constructor de un objeto sirve para crear el mismo y asignarle sus propiedades. Permite crear varios objetos usando el mismo constructor.
+Las funciones de JS son generalmente de acceso global y los métodos son únicamente utilizados para ser invocados por los objetos que lo contienen.
+Las clases son otra forma de crear objetos personalizados en JS.

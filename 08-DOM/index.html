@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM</title>
+</head>
+<body>
+    
+    <div> <!--nodo Padre--> 
+        <p></p> <!--nodo hijo--> 
+    </div>
+
+    <div>
+        <h1>Este es un nodo hijo del div</h1>
+        <section> <!-- Nodo hijo del div y padre del section-->
+            <ul>
+                <li></li><!-- Nodo hijo del section-->
+            </ul>
+        </section>
+    </div>
+
+    <p>Esta pagina es <strong>muy sencilla</strong></p>
+    <!-- nodo elemento es el p y strong
+    nodo texto es : Esta pagina es muy sencilla -->
+
+    <!-- Acceder a elementos del dom empleando la clase document-->
+
+    <div id = "app">
+        <p id = "parrafo1" >Hola Mundo</p>
+    </div>
+
+    <ul>
+        <li class="paises">AR</li>
+        <li class="paises">CL</li>
+       <li class="paises">UY</li>
+   </ul>
+
+    <div>CONTENEDOR 2</div>
+          <div>CONTENEDOR 3</div>
+    </div>
+
+    <h1 id=”titulo”>Hola Mundo!</h1>
+
+    <div id="miDiv">
+        <p>Este es un párrafo.</p>
+    </div>
+
+
+    <input type="text" id="nombre">
+    <input type="text" id="number">
+    
+
+    <script src="./JS/app.js"></script>
+</body>
+</html>
