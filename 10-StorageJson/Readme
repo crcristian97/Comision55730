@@ -10,3 +10,11 @@ Storage Json
 -Parseas el [object Object]
 -stringify y parse
 -Recuperar datos
+
+-TENER EN CUENTA EL FLUJO DE LOCALSTORAGE:
+-set
+-get
+-clear || remove // un boton que diga , eliminar productos del carrito ---> clear
+
+-Flujo de creacion de componentes
+

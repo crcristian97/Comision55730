@@ -78,6 +78,17 @@ productos.forEach(function(producto) {
 
     // Crear un botón para agregar el producto al carrito
     const addButton = document.createElement('button');
+    //funcion para sweett Alert
+
+    addButton.addEventListener('click', (e) =>{
+        e.preventDefault();
+        Swal.fire({
+            icon: 'success',
+            title: 'Producto Agregado',
+            text: 'El producto se agrego correctamente',
+          })
+    });
+
     addButton.className = 'btn btn-success float-right';
     addButton.innerText = 'Comprar';
 

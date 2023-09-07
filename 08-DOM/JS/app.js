@@ -105,7 +105,7 @@ const productos = [{ id: 1,  nombre: "Arroz", precio: 125 },
 for (const producto of productos) {
     let contenedor = document.createElement("div");
     //Definimos el innerHTML del elemento con una plantilla de texto
-    contenedor.innerHTML = `<h3> ID: ${producto.id}</h3>
+    contenedor.innerHTML = `<h3 class="btn btn danger"> ID: ${producto.id}</h3>
                             <p>  Producto: ${producto.nombre}</p>
                             <b> $ ${producto.precio}</b>`;
     document.body.appendChild(contenedor);
