@@ -1,0 +1,9 @@
+Async y Promesas
+
+-2 Modelos: programacion sincronica y asincronica
+-setTimeout
+-CallStack y eventLoop
+-setInterval
+-Detener los ciclos (clearInterval y clearTimeout)
+-Promesas --> Resolve y Reject
+-then, catch y finally
